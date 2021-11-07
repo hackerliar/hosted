@@ -1,2 +1,2 @@
-# hosted
+# Hosted
 Source CDN file script
