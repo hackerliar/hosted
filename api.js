@@ -44,7 +44,7 @@ function start() {
 
           $(document).ready(function() {
           $("#btn").click(function() {
-              btn = $(this), btn.button("loading"), start(0), $(".alert").addClass("alert-warning").removeClass("alert-success").text("waiting...!")
+              btn = $(this), btn.button("Process"), start(0), $(".alert").addClass("alert-warning").removeClass("alert-success").text("Waiting...!")
           })
       });
 
